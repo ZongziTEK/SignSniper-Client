@@ -1,3 +1,3 @@
 # sign_sniper_client
 
-A new Flutter project.
+Flutter client for dynamic QR code attendance. 
