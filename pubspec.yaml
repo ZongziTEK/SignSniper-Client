@@ -1,0 +1,23 @@
+name: sign_sniper_client
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^7.2.0
+  qr_flutter: ^4.1.0
+  shared_preferences: ^2.5.5
+  signalr_core: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
